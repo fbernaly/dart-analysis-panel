@@ -15,7 +15,7 @@ A VS Code/Cursor extension that provides a custom panel to view Dart/Flutter ana
 
 ## Requirements
 
-- VS Code 1.109.0 or higher (or Cursor)
+- VS Code 1.74.0 or higher (or Cursor)
 - Dart SDK or Flutter SDK installed and available in your PATH
 - A Dart/Flutter project workspace
 

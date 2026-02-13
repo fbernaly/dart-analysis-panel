@@ -4,6 +4,12 @@ All notable changes to the "dart-analysis-panel" extension will be documented in
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.2] - 2026-02-06
+
+### Fixed
+
+- Lowered minimum VS Code version requirement from ^1.109.0 to ^1.74.0 for better compatibility with Cursor and older VS Code versions
+
 ## [0.0.1] - 2026-02-06
 
 ### Added
